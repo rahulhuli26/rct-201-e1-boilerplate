@@ -2,6 +2,7 @@ import React from "react";
 
 type List1Props = {
   // TODO
+  
 };
 const List1 = (props: List1Props) => {
   return (
